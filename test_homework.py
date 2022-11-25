@@ -1,8 +1,8 @@
 def test_example():
-    assert 0==0
+    assert 1==0
 
-def test_new_feature():
-    assert 3>2
+def test_new_0():
+    assert 30>2
 
-def test_smoke():
-    assert 3<10
+def test_regress():
+    assert 3<100
